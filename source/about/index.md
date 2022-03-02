@@ -15,7 +15,7 @@ header-img: "img/scenery/about_bg.jpg"
 > it means to die in the electrocardiogram …
 
 
-
+<!-- 
 ## Just Me
 
 <img src="/img/scenery/about_bg2.jpg" width="350" alt="about_bg2"></img>
@@ -71,5 +71,5 @@ header-img: "img/scenery/about_bg.jpg"
 
 ## Treat me to coffee
 >  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
-
-<img src="/img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+ -->
+<!-- <img src="/img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img> -->

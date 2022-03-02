@@ -5,7 +5,7 @@
 # Site
 title: Your Title
 subtitle: This is hexo theme
-author: Your Name
+author: Monkey Z
 timezone:
 
 # Internationalization (i18n) Setting
@@ -39,11 +39,11 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: either thin | or die
+SEOTitle: 我的日常生活分享
 email: hexo-theme-livemylife@gmail.com
 description: "It's an IT blog..."
 keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
-header-img: img/header_img/newhome_bg.jpg
+header-img: img/header_img/snow_mountain_bg.jpeg
 archives-img: img/header_img/archive_bg2.jpg
 
 
@@ -53,7 +53,7 @@ favicon: img/avatar/roguerabbit.jpg
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/vincent-white.png
+signature-img: img/signature/monkeyz-sign.png
 
 
 # Wave settings
@@ -62,13 +62,13 @@ wave: true
 
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
+github_username: Monkeyzc
+#twitter_username: V_Vincen_
+#instagram_username: v_vincen_
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
 # zhihu_username: WVincen
-weibo_username: WVincen
+#weibo_username: WVincen
 
 
 # Sidebar Settings
@@ -80,7 +80,7 @@ widgets:
 - featured-tags
 - short-about
 - recent-posts
-- friends-blog
+# - friends-blog
 - archive
 - category
 
@@ -118,9 +118,9 @@ friends: [
 ## Doc:https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 ##
 gitalk:
-  owner: "MonkeyZ"                        # 'GitHub repo owner'
-  admin: "MonkeyZ"                         # 'GitHub repo'
-  repo:                           # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
+  owner: "Monkeyzc"                        # 'GitHub repo owner'
+  admin: "Monkeyzc"                         # 'GitHub repo'
+  repo: "https://github.com/Monkeyzc/monkeyz-blog.git"                         # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
   clientID:                       # 'GitHub Application Client ID'
   clientSecret:                   # 'GitHub Application Client Secret'
   perPage: 10                     # Pagination size, with maximum 100.
@@ -371,8 +371,8 @@ theme: livemylife
 # Gitter
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
-gitter:
-  room: your-community/your-room
+# gitter:
+#   room: your-community/your-room
 
 
 # Deployment
@@ -380,5 +380,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: https://github.com/<yourAccount>/<repo> # or https://gitee.com/<yourAccount>/<repo>
-  branch: <your-branch>
+  repo: https://github.com/Monkeyzc/monkeyz-blog.git # or https://gitee.com/<yourAccount>/<repo>
+  branch: main
