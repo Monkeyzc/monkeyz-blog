@@ -1,5 +1,5 @@
 ---
-title: Hexo-Theme-LiveMyLife
+title: Hexo文档
 catalog: true
 date: 2020-04-17 02:34:17
 subtitle: A succinct hexo theme...
@@ -11,21 +11,17 @@ categories:
 - Hexo-Theme-LiveMyLife
 ---
 
-> 移植 [Hux Blog](https://github.com/Huxpro/huxpro.github.io) 的主题，感谢 [Huxpro](https://github.com/Huxpro) 设计了如此完美的主题。
->
-> 由 [Vincent](https://v-vincen.github.io/) 创建的 LiveMyLife 的主题修改来源 [YenYuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)，参考主题 [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu)，感谢 [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu)。
->   
 
 ## 仓库
 Github 仓库地址：https://github.com/V-Vincen/hexo-theme-livemylife
 Gitee 仓库地址：https://gitee.com/V_Vincen/hexo-theme-livemylife
 
-### [预览 LiveMyLife 博客 ➾](https://v-vincen.github.io/)
+### [预览 LiveMyLife  ➾](https://v-vincen.github.io/)
 
 ![LiveMyLife Desktop](livemylife-desktop.png)
 
 ## 快速开始
-为了方便起见，我发布了整个项目，因此您可以按照下面的说明进行操作，然后就可以轻松自定义您自己的博客！
+为了方便起见，我发布了整个项目，因此您可以按照下面的说明进行操作，然后就可以轻松自定义您自己的！
 
 让我们开始!!!
 
@@ -45,9 +41,9 @@ $ npm install -g hexo-cli
 ```
 > 什么是 [Hexo](https://hexo.io/docs/)?
 >
-> Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
+> Hexo 是一个快速、简洁且高效的框架。Hexo 使用 Markdown（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。
 
-### 设置你的博客
+### 设置你的
 ```shell
 $ hexo init blog
 ```

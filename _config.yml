@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Enjoy Life
-subtitle: Life Work
+title: Enjoy your life
+subtitle: Love && Life && Work
 author: Monkey Z
 timezone:
 
@@ -22,7 +22,7 @@ langselect:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite-url      # Note: don't forget to modify the CNAME file to your url
+url: https://ssvipedu.com      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :lang/:title/
 permalink_defaults:
@@ -48,7 +48,7 @@ archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
-favicon: img/avatar/roguerabbit.jpg
+favicon: img/avatar/butterfly.png
 
 
 # Signature Setup
@@ -73,8 +73,8 @@ github_username: Monkeyzc
 
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
-sidebar-about-description: "Fat people have no future, either thin or die..."
-sidebar-avatar: img/avatar/fatpeople.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar: img/avatar/worktable.png    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - visitor   # busuanzi: https://busuanzi.ibruce.info/
 - featured-tags
